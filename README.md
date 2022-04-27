@@ -53,7 +53,6 @@ limitations under the License.
 
 ## Citation
 
-```
 1.  Cong, I., Choi, S. & Lukin, M.D. “Quantum convolutional neural networks”. Nat. Phys. 15, 1273–1278 (2019). https://doi.org/10.1038/s41567-019-0648-8
 2.  Cong, I., Choi, S. & Lukin, M.D. “Quantum Convolutional Neural Network Tutorial”. TensorFlow Quantum Documentation. https://www.tensorflow.org/quantum/tutorials/qcnn
 3.  Skolik, Andrea. “Layerwise Learning for Quantum Neural Networks.” The TensorFlow Blog, 10 Aug. 2020, https://blog.tensorflow.org/2020/08/layerwise-learning-for-quantum-neural-networks.html.  
@@ -68,4 +67,3 @@ limitations under the License.
 
 README.md template sourced from:
 Byeongho Heo and Sangdoo Yun and Dongyoon Han and Sanghyuk Chun and Junsuk Choe and Seong Joon Oh. "Rethinking Spatial Dimensions of Vision Transformers". International Conference on Computer Vision (ICCV), 2021, https://github.com/naver-ai/pit#readme
-```
