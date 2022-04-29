@@ -33,7 +33,7 @@ The following packages were installed:
 
 
 ## Model performance
-<img src="img/results.png" alt="QCNN with Layerwise Learning Results"></img>
+<img src="img/Results.png" alt="QCNN with Layerwise Learning Results"></img>
 
 
 ## License
