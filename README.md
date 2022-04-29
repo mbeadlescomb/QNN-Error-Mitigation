@@ -15,7 +15,7 @@ Inspired by the works of Cong, Choi, & Lukin in [Quantum Convolutional Neural Ne
 
 
 ## Setup
-This experimental proof of concept was developed entirely on Google Colab.
+This experimental proof of concept was developed entirely on Google Colab (notebook included).
 
 Notebook runtimes were configured with the following:
 - GPU Hardware Accelerator
