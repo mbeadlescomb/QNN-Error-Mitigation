@@ -36,6 +36,14 @@ The following packages were installed:
 <img src="img/Results.png" alt="QCNN with Layerwise Learning Results"></img>
 
 
+## Findings
+
+1.  Layerwise learning outperformed the pure QCNN as well as the classical Hybrid model.
+2.  Combination of QCNN with a set of layers and partitions outperformed a pure LL scenario.
+3.  The difference between the Hybrid model and the pure QCNN were marginal, but the  hybrid model is more complex to manage. 
+4.  Increase in number of epochs lead to improved results, although too many epochs might lead to overfitting.
+
+
 ## License
 
 ```
