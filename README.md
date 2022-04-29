@@ -1,6 +1,7 @@
 ## Quantum Neural Network Error Mitigation: QCNN With Layerwise Learning
-**Joe Vetere, Morgan Beadlescomb, Krishna Pothugunta**
-*Ordered by Contribution*
+**Joe Vetere**<br />
+**Morgan Beadlescomb**<br />
+**Krishna Pothugunta**
 
 ### News
 
