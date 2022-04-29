@@ -2,7 +2,7 @@
 **Joe Vetere**<br />
 **Morgan Beadlescomb**<br />
 **Krishna Pothugunta**
-
+<img src="img/QCNN LL Model.jpg" alt="QCNN with Layerwise Learning Model"></img>
 ### News
 
 - **Apr 26, 2022**: Presented in ECE-884-SS22: Deep Learning @ Michigan State University
@@ -33,7 +33,7 @@ The following packages were installed:
 
 
 ## Model performance
-
+<img src="img/results.png" alt="QCNN with Layerwise Learning Results"></img>
 
 
 ## License
